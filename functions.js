@@ -1,9 +1,7 @@
-debugger;
-
 const projects = [                                                              //array van objecten
-    { category: 'photoshop', imgPath: 'assets/PS_KaanKaanKaan.png' },
+    { category: 'photoshop', imgPath: 'assets/PS_KaanKaanKaan.webp' },
     { category: 'photoshop', imgPath: 'assets/photoshop-22.jpeg' },
-    { category: 'photoshop', imgPath: 'assets/PS_Billboard.png' },
+    { category: 'photoshop', imgPath: 'assets/PS_Billboard.webp' },
     { category: 'illustrator', imgPath: 'assets/AI_Dragonite.png' },
     { category: 'illustrator', imgPath: 'assets/AI_UnseenHand.png' },
     { category: 'illustrator', imgPath: 'assets/ai_3.png' },
