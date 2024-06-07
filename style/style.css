@@ -17,9 +17,6 @@ body {
     margin: 0 auto;
     text-align: left;
 }
-nav {
-    background-color: ;
-}
 nav .nav__container {
     display: flex;
     justify-content: flex-end;
@@ -158,9 +155,6 @@ main >div {
 }
 .about_me h1 {
     font-size: 50pt;
-}
-.tape {
-    height: ;
 }
 }
 .tape {
